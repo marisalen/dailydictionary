@@ -1,0 +1,509 @@
+{
+    "words": [
+        {
+            "id": 1,
+            "word": "Serendipity",
+            "definition": "the occurrence and development of events by chance in a happy or beneficial way"
+        },
+        {
+            "id": 2,
+            "word": "Sinecure",
+            "definition": "a job or position that requires little or no work and provides a good salary"
+        },
+        {
+            "id": 3,
+            "word": "Lagniappe",
+            "definition": "a small gift or bonus given to a customer, especially by a merchant or tradesman, in addition to the agreed price of goods or services"
+        },
+        {
+            "id": 4,
+            "word": "Petrichor",
+            "definition": "a pleasant smell that frequently accompanies the first rain after a long period of warm, dry weather"
+        },
+        {
+            "id": 5,
+            "word": "Maelstrom",
+            "definition": "a powerful whirlpool in the ocean, or a situation characterized by powerful and conflicting forces"
+        },
+        {
+            "id": 6,
+            "word": "Halcyon",
+            "definition": "a period of time in the past that was idyllically happy and peaceful"
+        },
+        {
+            "id": 7,
+            "word": "Sonder",
+            "definition": "the realization that each passerby has a life as complex as one's own, which is filled with their own unique experiences and struggles"
+        },
+        {
+            "id": 8,
+            "word": "Effulgent",
+            "definition": "shining brilliantly; radiant"
+        },
+        {
+            "id": 9,
+            "word": "Ephemeral",
+            "definition": "lasting for a very short time; fleeting"
+        },
+        {
+            "id": 10,
+            "word": "Luminescence",
+            "definition": "the emission of light by a substance that has not been raised to a high temperature"
+        },
+        {
+            "id": 11,
+            "word": "Persiflage",
+            "definition": "light, bantering talk or writing; idle chat"
+        },
+        {
+            "id": 12,
+            "word": "Ennui",
+            "definition": "a feeling of boredom and discontent resulting from a lack of activity or excitement"
+        },
+        {
+            "id": 13,
+            "word": "Surreptitiously",
+            "definition": "in a secret or stealthy manner"
+        },
+        {
+            "id": 14,
+            "word": "Serene",
+            "definition": "calm, peaceful, and untroubled; tranquil"
+        },
+        {
+            "id": 15,
+            "word": "Effervescence",
+            "definition": "the action of effervescing, or the state of being effervescent; the escape of gas from a solution in the form of bubbles"
+        },
+        {
+            "id": 16,
+            "word": "Ineffable",
+            "definition": "too great or extreme to be expressed or described in words"
+        },
+                {
+            "id": 17,
+            "word": "Lugubrious",
+            "definition": "looking or sounding sad and dismal; mournful"
+        },
+        {
+            "id": 18,
+            "word": "Inscrutable",
+            "definition": "difficult or impossible to understand or interpret; mysterious"
+        },
+        {
+            "id": 19,
+            "word": "Inimitable",
+            "definition": "impossible to imitate or copy; unique"
+        },
+        {
+            "id": 20,
+            "word": "Equanimity",
+            "definition": "mental calmness, composure, and evenness of temper, especially in difficult situations"
+        },
+        {
+            "id": 21,
+            "word": "Ebullience",
+            "definition": "the quality of being full of excitement and enthusiasm; exuberance"
+        },
+        {
+            "id": 22,
+            "word": "Ephemeral",
+            "definition": "lasting for a very short time; fleeting"
+        },
+        {
+            "id": 23,
+            "word": "Effervescent",
+            "definition": "bubbly and lively; sparkling"
+        },
+        {
+            "id": 24,
+            "word": "Effulgent",
+            "definition": "shining brilliantly; radiant"
+        },
+        {
+            "id": 25,
+            "word": "Efflorescence",
+            "definition": "the process of coming into bloom or flourishing; the state of being in full bloom"
+        },
+        {
+            "id": 26,
+            "word": "Enigma",
+            "definition": "something that is puzzling or mysterious; a riddle"
+        },
+        {
+            "id": 27,
+            "word": "Epiphany",
+            "definition": "a sudden realization or comprehension; a moment of sudden insight or understanding"
+        },
+        {
+            "id": 28,
+            "word": "Esoteric",
+            "definition": "intended for or understood by only a small number of people with a specialized knowledge or interest"
+        },
+        {
+            "id": 29,
+            "word": "Evanescent",
+            "definition": "tending to disappear like vapor; fleeting"
+        },
+        {
+            "id": 30,
+            "word": "Ethereal",
+            "definition": "delicate and light in a way that seems not to be of this world; heavenly"
+        },
+        {
+            "id": 31,
+            "word": "Exacerbate",
+            "definition": "to make a situation worse; to aggravate"
+        },
+        {
+            "id": 32,
+            "word": "Exegesis",
+            "definition": "a critical explanation or interpretation of a text, especially of the Bible"
+        },
+        {
+            "id": 33,
+            "word": "Exigent",
+            "definition": "urgent; requiring immediate action or attention"
+        },
+        {
+            "id": 34,
+            "word": "Exorbitant",
+            "definition": "unreasonably high; excessive"
+        },
+        {
+            "id": 35,
+            "word": "Expiate",
+            "definition": "to make amends or atone for a wrongdoing; to pay the penalty for a sin"
+        },
+        {
+            "id": 36,
+            "word": "Explicate",
+            "definition": "to explain in detail; to clarify"
+        },
+        {
+            "id": 37,
+            "word": "Facetious",
+            "definition": "treating serious issues with humor or not being serious when appropriate; flippant"
+        },
+        {
+            "id": 38,
+            "word": "Fastidious",
+            "definition": "excessively meticulous; demanding a lot of attention to detail and cleanliness"
+        },
+        {
+            "id": 39,
+            "word": "Fealty",
+            "definition": "loyalty or allegiance to a lord or sovereign; the binding duty of a vassal to his feudal lord"
+        },
+        {
+            "id": 40,
+            "word": "Felicity",
+            "definition": "great happiness; a state of well-being and contentment"
+        },
+        {
+            "id": 41,
+            "word": "Fervid",
+            "definition": "having or showing intense passion; ardent"
+        },
+        {
+            "id": 42,
+            "word": "Fiduciary",
+            "definition": "related to trust and responsibility for the management of assets for another person or group"
+        },
+        {
+            "id": 43,
+            "word": "Filibuster",
+            "definition": "the use of excessive speechmaking to delay legislative action; an intentional obstruction"
+        },
+        {
+            "id": 44,
+            "word": "Flagrant",
+            "definition": "blatantly obvious and unacceptable; outrageous"
+        },
+        {
+            "id": 45,
+            "word": "Foible",
+            "definition": "a minor weakness or character flaw; a minor failing or shortcoming"
+        },
+        {
+            "id": 46,
+            "word": "Foment",
+            "definition": "to stir up or incite; to promote the growth of"
+        },
+        {
+            "id": 47,
+            "word": "Forswear",
+            "definition": "to renounce or abandon under oath; to swear to give up"
+        },
+        {
+            "id": 48,
+            "word": "Frangible",
+            "definition": "easily broken or shattered; fragile"
+        },
+        {
+            "id": 49,
+            "word": "Frenetic",
+            "definition": "wildly energetic and frenzied; hectic"
+        },
+        {
+            "id": 50,
+            "word": "Fugacious",
+            "definition": "lasting for a short time; fleeting"
+        },
+        {
+            "id": 51,
+            "word": "Fulsome",
+            "definition": "excessive or insincere; overly abundant"
+        },
+        {
+            "id": 52,
+            "word": "Gambol",
+            "definition": "to frolic or play around; to skip about in a playful manner"
+        },
+        {
+            "id": 53,
+            "word": "Gargantuan",
+            "definition": "enormous; extremely large in size or scale"
+        },
+        {
+            "id": 54,
+            "word": "Gauche",
+            "definition": "awkward or lacking in social grace; unsophisticated"
+        },
+        {
+            "id": 55,
+            "word": "Gerrymander",
+            "definition": "to manipulate electoral district boundaries in order to benefit a political party"
+        },
+        {
+            "id": 56,
+            "word": "Glean",
+            "definition": "to gather information or resources little by little; to gather crops left behind after a harvest"
+        },
+        {
+            "id": 57,
+            "word": "Gossamer",
+            "definition": "something delicate and light, like a spider's web; used to describe a delicate, ethereal quality"
+        },
+        {
+            "id": 58,
+            "word": "Grandiloquent",
+            "definition": "using elaborate and pompous words; over-the-top and bombastic"
+        },
+        {
+            "id": 59,
+            "word": "Gravitas",
+            "definition": "dignity, seriousness, or importance; a sense of depth and substance"
+        },
+        {
+            "id": 60,
+            "word": "Gregarious",
+            "definition": "sociable and outgoing; enjoying the company of others"
+        },
+        {
+            "id": 61,
+            "word": "Guile",
+            "definition": "cunning or deceitfulness; the ability to trick or deceive others"
+        },
+        {
+            "id": 62,
+            "word": "Gumption",
+            "definition": "courage and initiative; determination and resourcefulness"
+        },
+        {
+            "id": 63,
+            "word": "Hallow",
+            "definition": "to set apart as holy or sacred; to venerate"
+        },
+        {
+            "id": 64,
+            "word": "Harangue",
+            "definition": "a lengthy and aggressive speech; a tirade"
+        },
+        {
+            "id": 65,
+            "word": "Harbinger",
+            "definition": "something that foreshadows a future event; an omen"
+        },
+        {
+            "id": 66,
+            "word": "Hauteur",
+            "definition": "arrogance or haughtiness; an air of superiority"
+        },
+        {
+            "id": 67,
+            "word": "Hegemony",
+            "definition": "dominance or leadership, especially by one country or social group over others"
+        },
+        {
+            "id": 68,
+            "word": "Heresy",
+            "definition": "an opinion or belief that goes against established doctrine or tradition"
+        },
+        {
+            "id": 69,
+            "word": "Hermetic",
+            "definition": "closed off from outside influences; related to alchemy or magic"
+        },
+        {
+            "id": 70,
+            "word": "Heterodox",
+            "definition": "holding opinions or beliefs that go against conventional wisdom or accepted norms"
+        },
+        {
+            "id": 71,
+            "word": "Hoard",
+            "definition": "to accumulate and store up goods or resources; to keep something hidden away"
+        },
+        {
+            "id": 72,
+            "word": "Hyperbole",
+            "definition": "extreme exaggeration or overstatement"
+        },
+        {
+            "id": 73,
+            "word": "Hypothesis",
+            "definition": "a tentative explanation or prediction about something; a scientific theory not yet proven"
+        },
+        {
+            "id": 74,
+            "word": "Imbibe",
+            "definition": "to drink; to absorb or take in something, such as ideas or knowledge"
+        },
+        {
+            "id": 75,
+            "word": "Imbroglio",
+            "definition": "a complicated and confusing situation; a tangled mess"
+        },
+        {
+            "id": 76,
+            "word": "Immutable",
+            "definition": "unchangeable; permanent and unable to be altered"
+        },
+        {
+            "id": 77,
+            "word": "Impair",
+            "definition": "to damage or weaken; to hinder or diminish in some way"
+        },
+        {
+            "id": 78,
+            "word": "Imperative",
+            "definition": "urgently needing to be done; of utmost importance"
+        },
+        {
+            "id": 79,
+            "word": "Imperious",
+            "definition": "arrogantly commanding; bossy and overbearing"
+        },
+        {
+            "id": 80,
+            "word": "Imperturbable",
+            "definition": "calm and unaffected by stress or disturbance"
+        },
+        {
+            "id": 81,
+            "word": "Implacable",
+            "definition": "unyielding and inflexible; impossible to pacify"
+        },
+        {
+            "id": 82,
+            "word": "Implode",
+            "definition": "to collapse inward upon itself; to suddenly fall apart"
+        },
+        {
+            "id": 83,
+            "word": "Inane",
+            "definition": "stupid or senseless; lacking meaning or value"
+        },
+        {
+            "id": 84,
+            "word": "Incorrigible",
+            "definition": "incapable of being corrected or reformed; obstinate"
+        },
+        {
+            "id": 85,
+            "word": "Indefatigable",
+            "definition": "unable to be exhausted; tireless"
+        },
+        {
+            "id": 86,
+            "word": "Indelible",
+            "definition": "impossible to erase or remove; leaving a lasting mark"
+        },
+        {
+            "id": 87,
+            "word": "Indigenous",
+            "definition": "native to a particular place; originating in a specific location"
+        },
+        {
+            "id": 88,
+            "word": "Ineffable",
+            "definition": "unable to be expressed in words; beyond description"
+        },
+        {
+            "id": 89,
+            "word": "Inept",
+            "definition": "clumsy or awkward; lacking skill or ability"
+        },
+        {
+            "id": 90,
+            "word": "Infamous",
+            "definition": "having a bad reputation; notorious"
+        },
+        {
+            "id": 91,
+            "word": "Infinite",
+            "definition": "without end or limit; unlimited"
+        },
+        {
+            "id": 92,
+            "word": "Inflate",
+            "definition": "to fill with air or gas; to increase in size or value"
+        },
+        {
+            "id": 93,
+            "word": "Inflict",
+            "definition": "to cause harm or suffering to another; to impose something unwanted"
+        },
+        {
+            "id": 94,
+            "word": "Inimitable",
+            "definition": "impossible to imitate or copy; unique"
+        },
+        {
+            "id": 95,
+            "word": "Innocuous",
+            "definition": "harmless; not likely to cause harm or offense"
+        },
+        {
+            "id": 96,
+            "word": "Insidious",
+            "definition": "sneaky and harmful in a gradual or subtle way"
+        },
+        {
+            "id": 97,
+            "word": "Insolent",
+            "definition": "rude and disrespectful; showing disdain for authority"
+        },
+        {
+            "id": 98,
+            "word": "Intangible",
+            "definition": "incapable of being touched; not having a physical form"
+        },
+        {
+            "id": 99,
+            "word": "Interminable",
+            "definition": "seemingly never-ending; extremely long and tiresome"
+        },
+        {
+            "id": 100,
+            "word": "Inveterate",
+            "definition": "deep-rooted and longstanding; firmly established by habit"
+        }
+    ]
+}
+
+           
+
+
+       

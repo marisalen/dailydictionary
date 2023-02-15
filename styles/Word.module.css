@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=VT323&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;0,600;0,700;1,400;1,500;1,600;1,700&display=swap');
+
+.mainContainer {
+    display: flex;
+    margin: 10%;
+}
+
+
+.main {
+    display: flex;
+    background-color: white;
+}
+
+.button {
+    background-color: transparent;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 700;    
+    text-decoration: underline;
+  }
+  
+.wordContainer {
+    margin: 20px 0;
+    border-radius: 5px;
+    margin-bottom: 6rem;
+  }
+  
+.wordContainer > h3 {
+    margin: 0 0 10px 0;
+    font-family: 'Lora', serif;
+    color: #FF8F2B;
+    font-weight: 200;
+    font-size: 4rem;
+  }
+
+.wordContainer > p {
+    font-family: 'Lora', serif;
+    font-weight: 500;
+}
+
+.leftImg {
+    width: 15%;
+    height: 100vh;
+}
+
+.rightImg{
+    width: 20%;
+    height: 100vh;
+}
+
+.mainContainer h1 {
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    
+}
+
+.mainContainer h2 {
+    font-family: 'VT323', monospace;
+    font-size: 2rem;
+    margin-bottom: 5rem;
+}
+
+.tagline {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
