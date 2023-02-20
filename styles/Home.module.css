@@ -180,7 +180,11 @@
 /** Tablet */
 @media (max-width: 820px) {
   .mainContainer button{
-    font-size: 16px;
+    font-size: 18px;
+  }
+
+  .main {
+    margin-left:0px 18px;
   }
 }
 
@@ -191,7 +195,7 @@
   }
 
   .main {
-    margin-left:0px 20px 0px 20px;
+    margin-left:0px 20px;
   }
 
   .content {
@@ -266,6 +270,9 @@
       rgb(var(--background-end-rgb)) 40%
     );
     z-index: 1;
+  }
+  .container {
+    margin: 0px 20px;
   }
 }
 

@@ -15,12 +15,13 @@ export default function Words(){
   return ( 
 <div className={styles.main}>
 
-<img className={styles.leftImg} src="/erosionGlitch.jpg"/>
+<img id="leftimage" className={styles.leftImg} src="/erosionGlitch.jpg"/>
 <img className={styles.rightImg} src="/erosionGlitch.jpg"/>
 <div className={styles.mainContainer}>
-    <div>
+    <div> 
+
     <h1>Learn a new word with</h1>
-    <h2>daily-dictionary.</h2>
+    <h2 id="title">daily-dictionary.</h2>
         <div className={styles.wordContainer}>
             {data.words.map((word, index) => {
                 if (selectedIndex === word.id) {
@@ -39,7 +40,8 @@ export default function Words(){
            NEW WORD
         </button>
     </div>
-</div>  
+</div>      
+<div><img src="/ddlogo.png" className={styles.logo} /></div>
 </div>
   );
 };   

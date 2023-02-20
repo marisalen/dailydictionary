@@ -7,6 +7,10 @@
     margin: 10%;
 }
 
+.mainContainer h2 {
+    font-weight: 600;
+}
+
 
 .main {
     display: flex;
@@ -71,3 +75,29 @@
     bottom: 8px;
     right: 16px;
 }
+
+/* Mobile */
+@media (max-width: 414px) {
+    .mainContainer h2 {
+      font-weight: 400;
+    }
+
+    .leftImg {
+        width: 0%;
+    }
+}
+
+/** Tablet */
+@media (max-width: 820px) {
+    .mainContainer h2 {
+        font-weight: 500;
+      }
+  
+    .leftImg {
+        width: 5%;
+    }
+  }
+
+  .logo {
+    width: 50px;
+  }

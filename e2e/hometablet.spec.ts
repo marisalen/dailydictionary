@@ -17,6 +17,21 @@ test.describe("Testing for home tablet", () => {
         })
 
         console.log(checkingFontSize);
-        expect(checkingFontSize).toBe("16px");
+        expect(checkingFontSize).toBe("18px");
+    })
+})
+
+test.describe("The mobile viewport for tablet", () => {
+    test('Testing for margin on tablet', async ({ page }) => {
+        await page.goto('http://localhost:3000/')
+
+        const mainContainer = page.locator('#main__area');
+
+        const checkingMarginSize = await mainContainer.evaluate((ele) => {
+            return window.getComputedStyle(ele).getPropertyValue("margin")
+        })
+
+        console.log(checkingMarginSize);
+        expect(checkingMarginSize).toBe("0px 18px");
     })
 })

@@ -19,3 +19,18 @@ test.describe("Testing for desktop", () => {
         expect(checkingFontSize).toBe("16px");
     })
 })
+
+test.describe("Testing for desktop", () => {
+    test('Testing for margin on desktop', async ({ page }) => {
+        await page.goto('http://localhost:3000/')
+
+        const mainContainer = page.locator('#main__area');
+
+        const checkingMarginSize = await mainContainer.evaluate((ele) => {
+            return window.getComputedStyle(ele).getPropertyValue("margin")
+        })
+
+        console.log(checkingMarginSize);
+        expect(checkingMarginSize).toBe("0px 20px");
+    })
+})
